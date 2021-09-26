@@ -19,11 +19,16 @@ You can buy this module ready-made or make it yourself.
 ## 1. Buy VS1053
 
 - Compact - the best choise [link to buy](https://aliexpress.ru/item/1005001774415185.html?spm=a2g39.orderlist.0.0.61b24aa6OQTQBb&_ga=2.43844069.1500790139.1632551122-873937012.1629624931)
-![Compact](pics/vs1053_1.jpg)
+
+![Compact](pics/vs1053_1.png)
+
 - Red- second alternative [link to buy](https://aliexpress.ru/item/1005001774415185.html?spm=a2g39.orderlist.0.0.61b24aa6OQTQBb&_ga=2.43844069.1500790139.1632551122-873937012.1629624931)
-![Red](pics/vs1053_2.jpg)
+
+![Red](pics/vs1053_2.png)
+
 - Blue - third alternative [link to buy](https://aliexpress.ru/item/32969920309.html?spm=a2g39.orderlist.0.0.61b24aa6OQTQBb&_ga=2.11946868.1500790139.1632551122-873937012.1629624931)
-![Blue](pics/vs1053_3.jpg)
+
+![Blue](pics/vs1053_3.png)
 
 
 ## 2. Connect VS1053 to ESPboy

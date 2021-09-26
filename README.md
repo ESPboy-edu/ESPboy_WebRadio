@@ -7,16 +7,31 @@ It is based on a VS1053 mp3 decoder.
 
 You can buy this module ready-made or make it yourself.
 
+[1](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/espboy2_1.jpg)
+
+[2](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/espboy2_2.jpg)
+
+[3](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/espboy2_3.jpg)
+
+[4](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/espboy2_4.jpg)
+
+
 ## 1. Buy VS1053
 
 - Compact - the best choise [link to buy](https://aliexpress.ru/item/1005001774415185.html?spm=a2g39.orderlist.0.0.61b24aa6OQTQBb&_ga=2.43844069.1500790139.1632551122-873937012.1629624931)
 - Red- second alternative [link to buy](https://aliexpress.ru/item/1005001774415185.html?spm=a2g39.orderlist.0.0.61b24aa6OQTQBb&_ga=2.43844069.1500790139.1632551122-873937012.1629624931)
 - Blue - third alternative [link to buy](https://aliexpress.ru/item/32969920309.html?spm=a2g39.orderlist.0.0.61b24aa6OQTQBb&_ga=2.11946868.1500790139.1632551122-873937012.1629624931)
 
+[Compact](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/vs1053_1.jpg)
+
+[Red](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/vs1053_2.jpg)
+
+[Blue](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/vs1053_3.jpg)
+
 
 ## 2. Connect VS1053 to ESPboy
 
-- 5V (3.3V) -> CC
+- 5V (3.3V) -> VCC
 - GND -> GND
 - XRESET -> RST
 - DREQ -> B4

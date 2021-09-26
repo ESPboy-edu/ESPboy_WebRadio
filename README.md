@@ -7,7 +7,7 @@ It is based on a VS1053 mp3 decoder.
 
 You can buy this module ready-made or make it yourself.
 
-[1](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/espboy2_1.jpg)
+[1](pics/espboy2_1.jpg)
 
 [2](https://github.com/ESPboy-edu/ESPboy_WebRadio/raw/master/pics/espboy2_2.jpg)
 

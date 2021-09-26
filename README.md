@@ -2,10 +2,9 @@
 
 [Demo video](https://www.youtube.com/watch?v=_tweZfW0TBg)
 
-ESPboy web-radio module allows to listen web-radio with ESPboy everywhere using stable WiFi connection. 
-It based on mp3 decoder VS1053.
+The ESPboy web radio module allows you to listen to web radio with ESPboy anywhere using a stable WiFi connection. It is based on a VS1053 mp3 decoder.
 
-You can buy this module ready to play or DIY it.
+You can buy this module ready-made or make it yourself.
 
 ## 1. Buy VS1053
 

@@ -201,7 +201,7 @@ bool wifiConnect() {
 
   //wificl = new wificlient();
   
-  if (!connectionErrorFlag && !(terminalGUIobj.getKeys()&PAD_ESC)) {
+  if (!connectionErrorFlag || !(terminalGUIobj.getKeys()&PAD_ESC)) {
     wificl.ssid = WiFi.SSID();
     wificl.pass = WiFi.psk();
     terminalGUIobj.printConsole(F("Last network:"), TFT_MAGENTA, 0, 0);

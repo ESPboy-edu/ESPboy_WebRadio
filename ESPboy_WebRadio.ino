@@ -75,8 +75,8 @@ wificlient wificl;
 
 
 // WiFi settings example
-const char *ssid = "kolsky104-23";
-const char *password = "murmansk";
+const char *ssid = "kolsky";
+const char *password = "ice";
 
 
 // Stream buffer
